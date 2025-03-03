@@ -15,9 +15,12 @@
 
 ДЗ No4: Тестовая документация (тест-план) - Для проверки сайта, нужно создать тестовую документацию: план тестирования, чек-лист и тест-кейс.
 
-Ответ: 1) тест план - https://docs.google.com/document/d/1M__VH_r5RycD4GJbmJpV98ROUNao4eVc4EdkRpxCTP4/edit?usp=sharing
-       2) чек-лист - https://docs.google.com/spreadsheets/d/1tB35rG6MjVe1acGfVAdiZ9J0FXjWIV0KI9Gr5j6FoV4/edit?usp=sharing
-       3) тест-кейс - https://docs.google.com/spreadsheets/d/1iH4ftqJWvBm5ciU-6C_nAIYvvN8SfgkZ7E3aSgqr9gM/edit?usp=sharing
+Ответ: 
+1) тест план - https://docs.google.com/document/d/1M__VH_r5RycD4GJbmJpV98ROUNao4eVc4EdkRpxCTP4/edit?usp=sharing
+
+2) чек-лист - https://docs.google.com/spreadsheets/d/1tB35rG6MjVe1acGfVAdiZ9J0FXjWIV0KI9Gr5j6FoV4/edit?usp=sharing
+
+3) тест-кейс - https://docs.google.com/spreadsheets/d/1iH4ftqJWvBm5ciU-6C_nAIYvvN8SfgkZ7E3aSgqr9gM/edit?usp=sharing
 
 
 ДЗ No5: Вам пришло задание на тестирование нового калькулятора подсчета пенсии. Перед вами 2 задачи:
@@ -26,9 +29,12 @@
         3) также нужно указать отдельно в документе, какие техники тест-дизайна вы применяли.
         ссылка на сайт - https://www.npf-atom.ru/particular/calc/index.php 
 
-Ответ:  1) тест-кейс - https://docs.google.com/spreadsheets/d/1AGZPf6HkEBfYwzLLs__3Ftgb1-n5X10MoAi13tfSAxo/edit?usp=sharing
-        2) баг-репорт - https://docs.google.com/spreadsheets/d/1CXT6AkH4TgxclYl5AMg4jE5QAty9cMgOXf9hmen3oNw/edit?usp=sharing
-        3) техники тест-дизайна - https://docs.google.com/document/d/11NJaFB90kZuhhUBoWAxfLZybaWZJgUybtuyTj0k0er4/edit?usp=sharing
+Ответ:  
+1) тест-кейс - https://docs.google.com/spreadsheets/d/1AGZPf6HkEBfYwzLLs__3Ftgb1-n5X10MoAi13tfSAxo/edit?usp=sharing
+
+2) баг-репорт - https://docs.google.com/spreadsheets/d/1CXT6AkH4TgxclYl5AMg4jE5QAty9cMgOXf9hmen3oNw/edit?usp=sharing
+
+3) техники тест-дизайна - https://docs.google.com/document/d/11NJaFB90kZuhhUBoWAxfLZybaWZJgUybtuyTj0k0er4/edit?usp=sharing
 
 
 ДЗ No6: Вам необходимо будет провести полноценный тест веб-формы (https://sites.google.com/view/test-form777/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0), что именно:
@@ -36,9 +42,12 @@
          2) провести тест формы и составить баг-репорт.
          3) написать отчет о проделанном тестировании.
 
-Ответ: 1) анализ требований - https://docs.google.com/document/d/1pXPft7JODtKxKu6_54WKOdcL06zUg_E-k5SK2M8rPP0/edit?usp=sharing
-       2) баг-репорт - https://docs.google.com/spreadsheets/d/1KX_704vmlw_1uxkvq7nIBhdDHybX0sl1woZREjjDQ7E/edit?usp=sharing
-       3) отчет о тестировании - https://docs.google.com/document/d/1Kq7-FnH1BceM_Fa5LIpXHQV07GADK_w8AD8tnL9OIyo/edit?usp=sharing
+Ответ: 
+1) анализ требований - https://docs.google.com/document/d/1pXPft7JODtKxKu6_54WKOdcL06zUg_E-k5SK2M8rPP0/edit?usp=sharing
+
+2) баг-репорт - https://docs.google.com/spreadsheets/d/1KX_704vmlw_1uxkvq7nIBhdDHybX0sl1woZREjjDQ7E/edit?usp=sharing
+
+3) отчет о тестировании - https://docs.google.com/document/d/1Kq7-FnH1BceM_Fa5LIpXHQV07GADK_w8AD8tnL9OIyo/edit?usp=sharing
 
 
 ДЗ No7: Тестирование веб и мобильных приложений - данное задание является проверкой всех изученных вами материалов ранее. Вам необходимо будет провести полноценный тест сайта, а именно:
